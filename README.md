@@ -1,3 +1,5 @@
+# This is outdated, go here for a way better full modding API: https://github.com/artizard/Hamsterball-Plus
+
 # Hamsterball DLL Mod
 
 This is a mod which currently does the following things:
